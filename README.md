@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k3vin-diaz&label=Profile%20views&color=0e75b6&style=flat" alt="k3vin-diaz" /> </p>
 
-- 🌱 I’m currently learning **Spring boot for the back-end and Angular to the front-end** and improving my skills in UI/UX
+- 🌱 I’m currently learning **Spring for the back-end and Angular to the front-end** and improving my skills in UI/UX
 
 - 👨‍💻 All of my projects are available at [https://github.com/K3vin-diaz](https://github.com/K3vin-diaz)
 
