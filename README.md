@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kevndh02@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFTTkZOEYY/L87pXouM4p8Ze6jkyxUg6g/edit?utm_content=DAFTTkZOEYY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFTTkZOEYY/L87pXouM4p8Ze6jkyxUg6g/edit?utm_content=DAFTTkZOEYY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Click me](https://drive.google.com/file/d/1wnAVOG90ZhDzdYV8eIsq-AghHZ44nkKP/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
